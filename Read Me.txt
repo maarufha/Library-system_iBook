@@ -1,0 +1,4 @@
+for running the app go to:
+files.zip/jar/gRead11_client.jar
+
+and open ibook.sql in mySQL software
